@@ -7,7 +7,9 @@ based on voice input.
 * Karvis-A.I is built in java
 
 
-Features:
+
+
+# Features:
 
 The API currently provides the following functionality,
 
@@ -19,6 +21,9 @@ The API currently provides the following functionality,
 * Retrieves synthesized text in an InputStream (MP3 data ready to be played)
 * Wave to FLAC API (Wrapped around the used API in the project, javaFlacEncoder)
 
+
+
+
 # Notes:
 
 * To get access to the Google API, you need an API key. To get this, you need to follow the instructions here:
@@ -29,7 +34,10 @@ The API currently provides the following functionality,
 * requires internet connection
 
 
-FUTURE UPGRADES:
+
+
+
+# FUTURE UPGRADES:
 
 * User interface needs to be improved upon.
 * integration of chat bot i.e Alice
